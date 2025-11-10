@@ -67,5 +67,22 @@ The deep learning model consists of:
 | Loss Function | Binary Crossentropy |
 | Model Type | LSTM (Sequential) |
 
-Example Predictions:
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools / Libraries |
+|:----------|:-----------------|
+| Programming Language | Python |
+| Deep Learning Framework | TensorFlow, Keras |
+| NLP & Text Processing | NLTK, Regex |
+| Data Handling | Pandas, NumPy |
+| Visualization (optional) | Matplotlib |
+| Environment | Jupyter Notebook |
+
+---
+
+
+
 
