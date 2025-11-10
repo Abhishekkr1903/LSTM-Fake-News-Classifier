@@ -46,3 +46,26 @@ You can use your own dataset or download a similar one from Kaggle:
 
 ### 🧱 Step 2: Model Architecture
 The deep learning model consists of:
+
+**Loss Function:** `binary_crossentropy`  
+**Optimizer:** `adam`  
+**Metric:** `accuracy`
+
+### 🧪 Step 3: Training
+- Model was trained on preprocessed sequences
+- Achieved high accuracy and generalization performance
+- Used **Sequential API** from Keras for model building
+
+---
+
+## 📈 Results
+
+| Metric | Value |
+|:-------:|:------:|
+| Training Accuracy | ~95% |
+| Validation Accuracy | ~93% |
+| Loss Function | Binary Crossentropy |
+| Model Type | LSTM (Sequential) |
+
+Example Predictions:
+
